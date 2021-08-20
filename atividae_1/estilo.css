@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+ #h{
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    
+}
+#d{
+    
+    padding-top: 20px;
+}
+#d p:nth-child(1){
+    border: solid;
+    border-style: dashed;
+    border-color: coral;
+    border-radius: 6;
+    width: 300px;
+    background-color: coral;
+}
+#d p:nth-child(2){
+    border: solid;
+    border-style: solid;
+    border-color: cyan;
+    width: 300px;
+    background-color: cyan;
+}
+#d p:nth-child(3){
+    border: solid;
+    border-style: dashed;
+    border-color: darkred;
+    width: 300px;
+    background-color: darkred;
+}
+#d p:nth-child(4){
+    border: solid;
+    border-style: dotted;
+    border-color: orangered;
+    width: 300px;
+    background-color: orangered;
+}
+#d p:nth-child(5){
+    border: solid;
+    border-style: double;
+    border-color: rgb(4, 66, 25);
+    width: 300px;
+    background-color: rgb(4, 66, 25);
+}
+#d p:nth-child(6){
+    border: solid;
+    border-style:double ;
+    border-color: chartreuse;
+    width: 300px;
+    background-color: chartreuse;
+    
+}
+#d p:nth-child(7){
+    border: solid;
+    border-style:dotted ;
+    border-color: chocolate;
+    width: 300px;
+    background-color: chocolate;
+}
